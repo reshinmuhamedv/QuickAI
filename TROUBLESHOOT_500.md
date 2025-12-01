@@ -120,3 +120,4 @@ The code tries to INSERT into the database (line 39 in aiController.js), and if 
 
 **Share the error message from your server console and I can help you fix it specifically!**
 
+

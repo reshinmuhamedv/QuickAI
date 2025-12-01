@@ -95,3 +95,4 @@ Common errors:
 
 The table creation is the #1 fix for this error! 🎯
 
+
